@@ -1,3 +1,4 @@
+- @OSSDAO.ORG•AIRDROP-0x1edA5B47f4F396b30cB6A57990AA34E681B09001
 - 👋 Hi, I’m @Kingjones502
 - 👀 I’m interested in building new products
 - 🌱 I’m currently learning basics of solidity and smart contract creation
